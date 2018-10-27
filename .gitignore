@@ -1,0 +1,10 @@
+**/logs
+**/secrets
+**/conf
+**/tmp
+*.out
+*.log
+*.pyc
+*.json
+.DS_store
+settings.py
