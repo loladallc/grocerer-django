@@ -17,4 +17,3 @@ class OwnerProfile(models.Model):
     place_id = models.CharField(max_length=255)
     google_rating = models.FloatField()
 
-    
